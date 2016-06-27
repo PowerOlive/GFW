@@ -6,7 +6,7 @@
 请自觉遵守中国大陆相关法律法规 :)
 
 
-重要的话说三遍！！！！
+重要的话说三遍！！！
 
 0.0浏览器设置
 	
@@ -60,8 +60,8 @@
 gogotest 	gae ip检测工具(程序需.NET Frameworks 4.0环境)
 
 
-
 免费VPN和SS
 http://i.freevpnss.com/
 
 
+呵呵😄
